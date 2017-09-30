@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import PiLights from './../lightswitchViews/PiLights.js'
+import PiLights from './../piSwitchViews/PiLights.js'
 
 export default class PiLightsContainer extends Component {
 	  constructor(props) {
